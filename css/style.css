@@ -1,0 +1,59 @@
+.sidebar{
+    background-color: blue;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.west{
+    line-height: 30px;
+    background-color: aqua;
+    color: brown;
+    width: 1130px;
+    float: left;
+}
+
+.Album{
+    text-align: center;
+    float: left;
+    background-color: chocolate;
+}
+
+.spectrum{
+    width: 250px;
+    height: 250px;
+}
+
+
+nav{
+    background-color: purple;
+    float: left;
+    line-height: 30px;
+    height: 345px;
+    width: 200px;
+
+}
+.personal{
+    width: 250px;
+    height: 250px;
+    border-radius: 8px;
+    margin: 20px;
+    padding: 8px;
+
+}
+
+#Egan{
+    float: left;
+}
+
+#shane{
+    float: left;
+}
+#Nicky{
+    float: left;
+}
+
+#Brian{
+    float: left;
+}
